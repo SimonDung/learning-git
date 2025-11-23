@@ -3,4 +3,4 @@ Learning git
 This repo was used to learing how to use git
 
 This is a new line
-This is a second line
+This is a second line 2
