@@ -1,3 +1,3 @@
 int main() {
-
+    cin << hello;
 }
